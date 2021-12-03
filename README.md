@@ -1,0 +1,1 @@
+A simple theme based off of the [KotStream Theme](https://marketplace.visualstudio.com/items?itemName=RuslanUsmanov.kot-stream-theme) and [Darcula PyCharm Theme](https://marketplace.visualstudio.com/items?itemName=garytyler.darcula-pycharm)

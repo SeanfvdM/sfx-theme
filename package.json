@@ -2,19 +2,27 @@
   "name": "sfx-theme",
   "displayName": "SFX",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "url": "https://github.com/SeanfvdM/sfx-theme"
+  },
   "engines": {
     "vscode": "^1.62.0"
   },
   "categories": [
     "Themes"
   ],
+  "author": {
+    "name": "Sean van der Merwe",
+    "url": "https://github.com/SeanfvdM"
+  },
+  "publisher": "SFX",
   "contributes": {
     "themes": [
       {
         "label": "SFX Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/My Intelli-color-theme.json"
+        "path": "./themes/SFX Dark-color-theme.json"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
   "name": "sfx-theme",
-  "displayName": "SFX",
+  "displayName": "SFX Themes",
   "description": "",
   "version": "0.0.3",
   "repository": {
@@ -16,12 +16,13 @@
     "name": "Sean van der Merwe",
     "url": "https://github.com/SeanfvdM"
   },
+  "icon": "images/sfx_logo.png",
   "publisher": "SFX",
   "contributes": {
     "themes": [
       {
         "id": "intelliJ Dark",
-        "label": "SFX Dark",
+        "label": "SFX intelliJ Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/SFX intelliJ Dark-color-theme.json"
       }

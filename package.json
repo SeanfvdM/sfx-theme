@@ -2,7 +2,7 @@
   "name": "sfx-theme",
   "displayName": "SFX",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "url": "https://github.com/SeanfvdM/sfx-theme"
   },
@@ -20,9 +20,10 @@
   "contributes": {
     "themes": [
       {
+        "id": "intelliJ Dark",
         "label": "SFX Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/SFX Dark-color-theme.json"
+        "path": "./themes/SFX intelliJ Dark-color-theme.json"
       }
     ]
   }
